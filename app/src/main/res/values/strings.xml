@@ -12,5 +12,10 @@
     <string name="login_to_your_account">Login to your Account</string>
     <string name="login">LOGIN</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_status">Your Status</string>
+    <string name="user_default_status">User default Status</string>
+
 
 </resources>
